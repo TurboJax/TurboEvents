@@ -38,7 +38,7 @@ publishing {
                 url = "https://github.com/turbojax/turbo-events"
                 licenses {
                     license {
-                        name = "GPL-3.0-only"
+                        name = "Custom"
                         url = "https://github.com/turbojax/turbo-events/blob/main/LICENSE"
                     }
                 }
